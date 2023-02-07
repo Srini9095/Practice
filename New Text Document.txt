@@ -6,3 +6,6 @@ For testing the command
 My favotite food is briyani
 
 You just try to add this line on local repository
+
+
+Hello world for merge conlflict
