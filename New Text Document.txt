@@ -21,5 +21,5 @@ This is jenkins pipeline
 
 This is new jenkins automation pipeline assignment
 .....................
-New pipeline has been create for testing
+New pipeline has been created for jenkins testing
 ...................................
